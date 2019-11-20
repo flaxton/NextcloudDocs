@@ -2,7 +2,10 @@
 ![Nextcloud](./nextcloudlogotransparent.png "Nextcloud")
 # User Guide for Nextcloud
 
-* First point
+* Install Nextcloud
+
+[click here to install Nextcloud](https://nextcloud.com/download/#install-clients)
+
 * Second point
 * Third point
 
