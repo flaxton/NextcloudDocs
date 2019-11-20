@@ -4,7 +4,7 @@
 
 * Install Nextcloud
 
-[click here to install Nextcloud](https://nextcloud.com/download/#install-clients)
+[click here to install Nextcloud](https://nextcloud.com/download/#install-clients) and then return here to continue
 
 * Second point
 * Third point
