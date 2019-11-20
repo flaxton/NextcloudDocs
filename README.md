@@ -1,5 +1,5 @@
 # Nextcloud Documentation
-![Nextcloud](https://github.com/flaxton/NextcloudDocs/blob/master/nextcloudlogo.png "Nextcloud")
+![Nextcloud](./nextcloudlogo.png "Nextcloud")
 User Guide for Nextcloud
 
 * First point
