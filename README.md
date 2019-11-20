@@ -5,5 +5,5 @@ User Guide for Nextcloud
 * Second point
 * Third point
 
-(view this document online)[https://flaxton.github.io/NextcloudDocs/]
+[view this document online](https://flaxton.github.io/NextcloudDocs/)
 
