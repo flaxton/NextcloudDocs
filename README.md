@@ -33,8 +33,6 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 * Second point
 * Third point
 
-[view this document online](https://flaxton.github.io/NextcloudDocs/)
-
 
 
 
@@ -51,3 +49,5 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 
 [click here to install Nextcloud](https://nextcloud.com/download/#install-clients) and then return here to continue
 
+
+[view this document online](https://flaxton.github.io/NextcloudDocs/)
