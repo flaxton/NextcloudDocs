@@ -1,4 +1,5 @@
 # Nextcloud Documentation
+![Nextcloud](nextcloudlogo.png "Nextcloud")
 User Guide for Nextcloud
 
 * First point
