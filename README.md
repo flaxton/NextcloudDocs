@@ -43,7 +43,7 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 
 ### <a name="web-browser"></a>Web Browser Usage
 
-
+![Nextcloud login](./login_page.png "Nextcloud login")
 
 ### <a name="desktop-client"></a>Desktop Client Usage
 
