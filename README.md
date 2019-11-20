@@ -1,6 +1,6 @@
 # Nextcloud Documentation
 ![Nextcloud](./nextcloudlogotransparent.png "Nextcloud")
-# User Guide for Nextcloud
+## User Guide for Nextcloud
 
 * Install Nextcloud
 
