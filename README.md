@@ -1,5 +1,5 @@
 # Nextcloud Documentation
-![Nextcloud](./nextcloudlogo.png "Nextcloud")
+![Nextcloud](./nextcloudlogotransparent.png "Nextcloud")
 # User Guide for Nextcloud
 
 * First point
