@@ -2,12 +2,15 @@
 ![Nextcloud](./nextcloudlogotransparent.png "Nextcloud")
 ## User Guide for Nextcloud
 
+&nbsp;
+
 ---
 ### What is Nextcloud?
 
 &nbsp;
 
 ---
+&nbsp;
 
 Nextcloud is a document management system. It is used to share folders and files between others in your organization and also outsiders if you wish.
 
@@ -22,6 +25,7 @@ You can access Nextcloud in two ways:
 &nbsp;
 
 ---
+&nbsp;
 
 [Use Nextcloud in a web browser](#web-browser)
 
@@ -37,6 +41,7 @@ You must have Internet access while using Nextcloud in a web browser.
 &nbsp;
 
 ---
+&nbsp;
 
 [Use Nextcloud on your computer - Install on your computer](#desktop-client)
 
@@ -62,6 +67,7 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 &nbsp;
 
 ---
+&nbsp;
 
 ![Nextcloud login](./login_page.png "Nextcloud login")
 
@@ -71,6 +77,7 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 &nbsp;
 
 ---
+&nbsp;
 
 * Install Nextcloud
 
