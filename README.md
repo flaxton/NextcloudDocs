@@ -102,7 +102,6 @@ Note the different areas on this page:
 * New button (5): Located in the Navigation Bar, the New button enables you to create new files, new folders, or upload files.
 
 > **Note**
-
 > _You can also drag and drop files from your file manager into the Files Application View to upload them to your instance. Currently, the only Web browsers that support drag-and-drop folders are Chrome and Chromium._
 
 * Search field (6): Click on the magnifier in the upper right hand corner of to search for files.
