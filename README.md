@@ -101,9 +101,9 @@ Note the different areas on this page:
 * Navigation Bar (4): Located over the main viewing window (the Application View), this bar provides a type of breadcrumbs navigation that enables you to migrate to higher levels of the folder hierarchy up to the root level (home).
 * New button (5): Located in the Navigation Bar, the New button enables you to create new files, new folders, or upload files.
 
-**Note**
+> **Note**
 
-_You can also drag and drop files from your file manager into the Files Application View to upload them to your instance. Currently, the only Web browsers that support drag-and-drop folders are Chrome and Chromium._
+> _You can also drag and drop files from your file manager into the Files Application View to upload them to your instance. Currently, the only Web browsers that support drag-and-drop folders are Chrome and Chromium._
 
 * Search field (6): Click on the magnifier in the upper right hand corner of to search for files.
 * Contacts Menu (7): Gives you an overview about your contacts and users on your server. Dependent on the given details and available apps, you can directly start a video call with them or send emails.
@@ -133,3 +133,4 @@ _You can also drag and drop files from your file manager into the Files Applicat
 
 
 [view this document online](https://flaxton.github.io/NextcloudDocs/)
+
