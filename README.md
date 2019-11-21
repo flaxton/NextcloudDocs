@@ -19,6 +19,8 @@ Using a web browser, you login to Nextcloud and then you can see all your docume
 
 _Note - use a web browser if you are low on disk space on your computer_
 
+You must have Internet access while using Nextcloud in a web browser.
+
 ### As a folder on your computer
 
 [Use Nextcloud on your computer - Install on your computer](#desktop-client)
@@ -28,6 +30,8 @@ By installing the Nextcloud software, a folder on your computer will be kept in 
 In this mode, you work directly on the files on your computer, and the Nextcloud software keeps it in sync with the Nextcloud server automatically.
 
 _Note - using Nextcloud as a folder on your computer may use a lot of disk space. It will download a copy of all files and folders you have been granted permission to access, to your computer._
+
+-> You can use your Nextcloud files and folders, even without an Internet connection. The next time you have an Internet connection, the Nextcloud software will synchronize the changes you and others have made to the files and folders.
 
 
 * Second point
