@@ -117,6 +117,8 @@ Note the different areas on this page:
   * Your Two-factor Settings
   * Nextcloud Version information
 
+&nbsp;
+
 ---
 ### <a name="desktop-client"></a>Desktop Client Usage
 
