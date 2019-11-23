@@ -120,6 +120,19 @@ Note the different areas on this page:
 &nbsp;
 
 ---
+### Accessing your files using the Nextcould Web interface
+
+&nbsp;
+
+---
+&nbsp;
+
+You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.
+
+
+&nbsp;
+
+---
 ### <a name="desktop-client"></a>Desktop Client Usage
 
 &nbsp;
