@@ -129,6 +129,53 @@ Note the different areas on this page:
 
 You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit, delete, share, and re-share files.
 
+![User Files](./users-files.png "User Files")
+
+
+
+#### File controls
+
+Nextcloud can display thumbnail previews for image files, MP3 covers, and text files, if this enabled by your server administrator. Hover your cursor over a file or folder to expose the controls for the following operations:
+
+##### Favorites
+
+Click the star to the left of the file icon to mark it as a favorite, and quickly find all of your favorites with the Favorites filter on the left sidebar.
+
+![Favorites](./files_page-1.png "Favorites")
+
+
+##### Share
+
+Share the file or folder with a group or other users, and create public shares with hyperlinks. You can also see who you have shared with already, and revoke shares by clicking the trash can icon.
+
+![Sharing Files](./files_page-2.png "Sharing Files")
+
+You have five share permissions:
+
+* Can share; allows the users you share with to re-share.
+* Can edit; allows the users you share with to edit your shared files, and to collaborate using the Documents app.
+* Create; allows the users you share with to create new files and add them to the share.
+* Change; allows uploading a new version of a shared file and replacing it.
+* Delete; allows the users you share with to delete shared files.
+
+##### Overflow Menu
+
+The Overflow menu (three dots) displays file details, and allows you to rename, download, or delete files.
+
+![Overflow Menu](./files_page-3.png "Overflow Menu")
+
+
+_The Details view shows Activities, Sharing, and Versions information._
+
+![Details view](./files_page-4.png "Details view")
+
+The **Settings** gear icon at the lower left allows you to show or hide hidden files in your Nextcloud Web interface. These are also called dotfiles, because they are prefixed with a dot, e.g. .mailfile. The dot tells your operating system to hide these files in your file browsers, unless you choose to display them. Usually these are configuration files, so having the option to hide them reduces clutter.
+
+![Hidden Files](./hidden_files.png "Hidden Files")
+
+Hiding or displaying hidden files.
+
+
 
 &nbsp;
 
