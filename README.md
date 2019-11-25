@@ -177,6 +177,69 @@ Hiding or displaying hidden files.
 
 
 
+##### Previewing files
+
+You can display uncompressed text files, OpenDocument files, videos, and image files in the Nextcloud embedded viewers by clicking on the file name. There may be other file types you can preview if your Nextcloud administrator has enabled them. If Nextcloud cannot display a file, it starts a download process and downloads the file to your computer.
+
+##### Navigating inside your Nextcloud
+
+Navigating through folders in Nextcloud is as simple as clicking on a folder to open it and using the back button on your browser to move to a previous level. Nextcloud also provides a navigation bar at the top of the Files field for quick navigation.
+
+##### Sharing status icons
+
+Any folder that has been shared is marked with the Shared overlay icon. Public link shares are marked with a chain link. Un-shared folders are blank.
+
+![Share Status icons](./files_page-5.png "Share Status icons")
+
+##### Creating or uploading files and directories
+
+Upload or create new files or folders directly in a Nextcloud folder by clicking on the New button in the Files app.
+
+![The New file/folder/upload menu](./files_page-6.png "The New file/folder/upload menu")
+
+The New button provides the following options:
+
+**Up arrow**
+
+* Upload files from your computer into Nextcloud. You can also upload files by dragging and dropping them from your file manager.
+
+**Text file**
+
+* Creates a new text file and adds the file to your current folder.
+
+**Folder**
+
+* Creates a new folder in the current folder.
+
+##### Selecting files or folders
+
+You can select one or more files or folders by clicking on their checkboxes. To select all files in the current directory, click on the checkbox located at the top of the files listing.
+
+When you select multiple files, you can delete all of them, or download them as a ZIP file by using the Delete or Download buttons that appear at the top.
+
+> **Note** If the Download button is not visible, the administrator has disabled this feature.
+
+Filtering the files view
+The left sidebar on the Files page contains several filters for quickly sorting and managing your files.
+
+All files
+The default view; displays all files that you have access to.
+Favorites
+Files or folders marked with the yellow star.
+Shared with you
+Displays all files shared with you by another user or group.
+Shared with others
+Displays all files that you have shared with other users or groups.
+Shared by link
+Displays all files that are shared by you via public link.
+External Storage (optional)
+Files that you have access to on external storage devices and services such as Dropbox, Google, and Amazon S3.
+Moving files
+You can move files and folders by dragging and dropping them into any directory.
+
+Change in share expiration date
+In older versions of Nextcloud, you could set an expiration date on both local and public shares. Now you can set an expiration date only on public shares, and local shares do not expire when public shares expire. The only way to “expire” a local share is to click the trash can icon to un-share your files.
+
 &nbsp;
 
 ---
