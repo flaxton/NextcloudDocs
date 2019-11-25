@@ -275,7 +275,7 @@ If you are a light user of Nextcloud, the web browser interface is probably enou
 
 If you want your Nextcloud files/folders at all times, including when you are offline, such as when traveling, you would want to use the Nextcloud Sync client instead (next section). This keeps all of the files/folders synced on your computer. If you modify files/folders while offline, those will be synced with Nextcloud the next time you are online.
 
-> To use a Network Drive on Nextcloud, contact Fred Laxton - the setup is somewhat technical.
+> To use a Network Drive on Nextcloud, [contact Fred Laxton](http://infotechdesign.net/www/contact) - the setup is somewhat technical and custom for each user.
 
 
 
