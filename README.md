@@ -219,26 +219,65 @@ When you select multiple files, you can delete all of them, or download them as 
 
 > **Note** If the Download button is not visible, the administrator has disabled this feature.
 
-Filtering the files view
+##### Filtering the files view
+
 The left sidebar on the Files page contains several filters for quickly sorting and managing your files.
 
-All files
-The default view; displays all files that you have access to.
-Favorites
-Files or folders marked with the yellow star.
-Shared with you
-Displays all files shared with you by another user or group.
-Shared with others
-Displays all files that you have shared with other users or groups.
-Shared by link
-Displays all files that are shared by you via public link.
-External Storage (optional)
-Files that you have access to on external storage devices and services such as Dropbox, Google, and Amazon S3.
-Moving files
+**All files**
+
+* The default view; displays all files that you have access to.
+
+**Favorites**
+
+* Files or folders marked with the yellow star.
+
+**Shared with you**
+
+* Displays all files shared with you by another user or group.
+
+**Shared with others**
+
+* Displays all files that you have shared with other users or groups.
+
+**Shared by link**
+
+* Displays all files that are shared by you via public link.
+
+##### Moving files
+
 You can move files and folders by dragging and dropping them into any directory.
 
-Change in share expiration date
+##### Change in share expiration date
+
 In older versions of Nextcloud, you could set an expiration date on both local and public shares. Now you can set an expiration date only on public shares, and local shares do not expire when public shares expire. The only way to “expire” a local share is to click the trash can icon to un-share your files.
+
+&nbsp;
+
+---
+### <a name="network-drive"></a>Network Drive Usage
+
+&nbsp;
+
+---
+&nbsp;
+
+**What is a "Network Drive" and why would you use it?**
+
+A Network Drive is a "drive" that connects over the Internet. Once you connect, it is like another hard drive on your computer. On Windows it would be another drive letter, like Z:. On a Mac, it is another disk volume.
+
+**Why would you use Nextcloud this way?**
+
+A Network Drive has the convenience of a local hard drive, but takes no space on your computer. So if your computer has limited disk space, you can use a Network Drive, instead of using the Nextcloud Sync client (detailed in the next section), which copies ALL of the files/folders to your computer, potentially using a lot of disk space.
+
+**Why would you not use a Network Drive?**
+
+If you are a light user of Nextcloud, the web browser interface is probably enough for you.
+
+If you want your Nextcloud files/folders at all times, including when you are offline, such as when traveling, you would want to use the Nextcloud Sync client instead (next section). This keeps all of the files/folders synced on your computer. If you modify files/folders while offline, those will be synced with Nextcloud the next time you are online.
+
+> To use a Network Drive on Nextcloud, contact Fred Laxton - the setup is somewhat technical.
+
+
 
 &nbsp;
 
