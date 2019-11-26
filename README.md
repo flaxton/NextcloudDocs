@@ -82,7 +82,7 @@ In this mode, you work directly on the files on your computer, and the Nextcloud
 
 _Note - using Nextcloud as a folder on your computer may use a lot of disk space. It will download a copy of all files and folders you have been granted permission to access, to your computer._
 
--> You can use your Nextcloud files and folders, even without an Internet connection. The next time you have an Internet connection, the Nextcloud software will synchronize the changes you and others have made to the files and folders.
+> You can use your Nextcloud files and folders, even without an Internet connection. The next time you have an Internet connection, the Nextcloud software will synchronize the changes you and others have made to the files and folders.
 
 
 
