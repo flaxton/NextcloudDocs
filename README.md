@@ -14,11 +14,13 @@
 
 Nextcloud is a document management system. It is used to share folders and files between others in your organization and also outsiders if you wish.
 
-You can access Nextcloud in four ways:
+You can access Nextcloud in five ways:
 
 ### On your computer:
 * In a web browser, like Google Chrome
 * As a folder on your computer, similar to Dropbox or other cloud services
+  * As a Network Drive (must be online), or
+  * As a local folder, synced whenever you are online
 
 ### On your mobile device:
 * On iPhone or iPad
@@ -42,6 +44,26 @@ _Note - use a web browser if you are low on disk space on your computer_
 
 You must have Internet access while using Nextcloud in a web browser.
 
+[Use Nextcloud in a web browser on your computer](#web-browser)
+
+&nbsp;
+
+---
+### As a Network Drive on your computer
+
+&nbsp;
+
+---
+&nbsp;
+
+[Use Nextcloud on your computer as a "Network Drive" while online - more info](#network-drive)
+
+If you are low on disk space, or are always online while using Nextcloud files and folders, then you may want to use it as a Network Drive.
+
+[Use Nextcloud on your computer as a "Network Drive" while online - more info](#network-drive)
+
+&nbsp;
+
 ---
 ### As a folder on your computer
 
@@ -50,7 +72,9 @@ You must have Internet access while using Nextcloud in a web browser.
 ---
 &nbsp;
 
-[Use Nextcloud on your computer - Install on your computer](#desktop-client)
+[Use Nextcloud on your computer as a "Network Drive" while online - more info](#network-drive)
+
+[Use Nextcloud on your computer, synced to a local folder - Install on your computer](#desktop-client)
 
 By installing the Nextcloud software, a folder on your computer will be kept in sync with the Nextcloud system, including all folders and documents you have been granted permission to access.
 
@@ -61,8 +85,6 @@ _Note - using Nextcloud as a folder on your computer may use a lot of disk space
 -> You can use your Nextcloud files and folders, even without an Internet connection. The next time you have an Internet connection, the Nextcloud software will synchronize the changes you and others have made to the files and folders.
 
 
-* Second point
-* Third point
 
 
 
@@ -271,9 +293,11 @@ A Network Drive has the convenience of a local hard drive, but takes no space on
 
 **Why would you not use a Network Drive?**
 
-If you are a light user of Nextcloud, the web browser interface is probably enough for you.
+* If you are a light user of Nextcloud, the web browser interface is probably enough for you.
 
-If you want your Nextcloud files/folders at all times, including when you are offline, such as when traveling, you would want to use the Nextcloud Sync client instead (next section). This keeps all of the files/folders synced on your computer. If you modify files/folders while offline, those will be synced with Nextcloud the next time you are online.
+* If you have a slow Internet connection, a Network Drive will be slow to respond. This is because it downloads every file on demand when you access it, or uploads every file when you add it. The Desktop Sync client, on the other hand, syncs in the background, so that when you go to access a file, it has already been downloaded to your computer (using disk space), so there is no delay. The downside of the Desktop Sync client is the files take space on your computer.
+
+* If you want your Nextcloud files/folders at all times, including when you are offline, such as when traveling, you would want to use the Nextcloud Sync client instead (next section). This keeps all of the files/folders synced on your computer. If you modify files/folders while offline, those will be synced with Nextcloud the next time you are online.
 
 > To use a Network Drive on Nextcloud, [contact Fred Laxton](http://infotechdesign.net/www/contact) - the setup is somewhat technical and custom for each user.
 
@@ -289,10 +313,24 @@ If you want your Nextcloud files/folders at all times, including when you are of
 ---
 &nbsp;
 
-* Install Nextcloud
+**Get Nextcloud setting for the server**
 
-[click here to install Nextcloud](https://nextcloud.com/download/#install-clients) and then return here to continue
+Click on the first initial of your first name in the top right, and then click on "Settings".
 
+Then on the right, click on "Mobile & Desktop" in the Settings left sidebar. In the "Server Address" section, click on the "copy to the clipboard" icon to copy the server URL to your computer clipboard. You need this URL in the next step.
+
+**Install Nextcloud**
+
+Click on the button "Desktop app"
+
+Click the button for your operating system, e.g. Mac, Windows or Linux
+
+On Mac, open the disk image (*.dmg) after it downloads.
+
+On Windows, open the installer after it downloads.
+
+
+---
 
 [view this document online](https://flaxton.github.io/NextcloudDocs/)
 
