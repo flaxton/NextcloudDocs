@@ -2,10 +2,22 @@
 ![Nextcloud](./nextcloudlogotransparent.png "Nextcloud")
 ## User Guide for Nextcloud
 
+*Table of Contents*
+* [What is Nextcloud?](#what-is-nextcloud)
+* [On your computer](#on-your-computer)
+* [In a web browser](#in-a-web-browser)
+* [On your mobile device](#on-your-mobile-device)
+* [As a Network Drive on your computer](#as-a-network-drive)
+* [As a folder on your computer](#as-a-folder)
+* [Web Browser Usage on a computer](#web-browser)
+* [Accessing your files using the Nextcloud Web Interface](#accessing-your-files)
+* [Network Drive Usage](#network-drive)
+* [Desktop Client Usage](#desktop-client)
+
 &nbsp;
 
 ---
-### What is Nextcloud?
+### <a name="what-is-nextcloud"></a>What is Nextcloud?
 
 &nbsp;
 
@@ -16,20 +28,20 @@ Nextcloud is a document management system. It is used to share folders and files
 
 You can access Nextcloud in five ways:
 
-### On your computer:
+### <a name="on-your-computer"></a>On your computer:
 * In a web browser, like Google Chrome
 * As a folder on your computer, similar to Dropbox or other cloud services
   * As a Network Drive (must be online), or
   * As a local folder, synced whenever you are online
 
-### On your mobile device:
+### <a name="on-your-mobile-device"></a>On your mobile device:
 * On iPhone or iPad
 * On an Android phone or tablet
 
 &nbsp;
 
 ---
-### In a web browser on your computer
+### <a name="in-a-web-browser"></a>In a web browser on your computer
 
 &nbsp;
 
@@ -49,7 +61,7 @@ You must have Internet access while using Nextcloud in a web browser.
 &nbsp;
 
 ---
-### As a Network Drive on your computer
+### <a name="as-a-network-drive"></a>As a Network Drive on your computer
 
 &nbsp;
 
@@ -65,7 +77,7 @@ If you are low on disk space, or are always online while using Nextcloud files a
 &nbsp;
 
 ---
-### As a folder on your computer
+### <a name="as-a-folder"></a>As a folder on your computer
 
 &nbsp;
 
@@ -142,7 +154,7 @@ Note the different areas on this page:
 &nbsp;
 
 ---
-### Accessing your files using the Nextcould Web interface
+### <a name="accessing-your-files"></a>Accessing your files using the Nextcould Web interface
 
 &nbsp;
 
