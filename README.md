@@ -331,6 +331,10 @@ Click on the first initial of your first name in the top right, and then click o
 
 Then on the right, click on "Mobile & Desktop" in the Settings left sidebar. In the "Server Address" section, click on the "copy to the clipboard" icon to copy the server URL to your computer clipboard. You need this URL in the next step.
 
+You also need your Nextcloud email address and Nextcloud password.
+
+With those three items handy, continue to installation.
+
 **Install Nextcloud**
 
 Click on the button "Desktop app"
@@ -341,6 +345,32 @@ On Mac, open the disk image (*.dmg) after it downloads.
 
 On Windows, open the installer after it downloads.
 
+&nbsp;
+
+---
+#### Installation Wizard
+
+&nbsp;
+
+The installation wizard takes you step-by-step through configuration options and account setup. First you need to enter the URL of your Nextcloud server.
+
+![Enter Nextcloud server](./client-1-edited.jpg "Enter Nextcloud server")
+
+Enter your Nextcloud login on the next screen.
+
+![Nextcloud login](./client-2-edited.jpg "Nextcloud login")
+
+On the Local Folder Option screen you may sync all of your files on the Nextcloud server, or select individual folders. The default local sync folder is Nextcloud, in your home directory. You may change this as well.
+
+> We recommend you leave the default settings. If you want to change this, [please contact Fred for instructions](http://infotechdesign.net/www/contact).
+
+![Local Folder Option](./client-3-edited.jpg "Local Folder Option")
+
+When you have completed selecting your sync folders, click the Connect button at the bottom right. The client will attempt to connect to your Nextcloud server, and when it is successful you’ll see two buttons: one to connect to your Nextcloud Web GUI, and one to open your local folder. It will also start synchronizing your files to your computer.
+
+![All Finished](./client-4-edited.jpg "All Finished")
+
+Click the Finish button, and you’re all done.
 
 ---
 
